@@ -15,7 +15,7 @@ Some Features:
     out but also teach myself core fundamentals of Software Engineering.
     So I thought what better way than to learn Fullstack with the challenge
     of making an application update in real time with advanced error handling,
-    a sleek UI, and data fetching. While also making it somethinbg I could get my
+    a sleek UI, and data fetching. While also making it something I could get my
     family and friends to sign up for!
 
 ## Quick Start
