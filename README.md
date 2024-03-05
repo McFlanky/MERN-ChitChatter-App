@@ -1,15 +1,24 @@
-# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+# MERN Stack Project: ChitChatter | Real-Time Messaging App
 
 Some Features:
 
--    Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
--    Authentication && Authorization with JWT
--    Real-time messaging with Socket.io
--    Online user status (Socket.io and React Context)
--    Global state management with Zustand
--    Error handling both on the server and on the client
--    At the end Deployment like a pro for FREE!
+-    🤌 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+-    ✌ Authentication && Authorization with JWT
+-    🤘 Real-time messaging with Socket.io
+-    👏 Online user status (Socket.io and React Context)
+-    🖖 Global state management with Zustand
+-    🦾 Error handling both on the server and on the client
 -    And much more!
+
+## Motivation
+    I wanted to learn to create an application that will stand
+    out but also teach myself core fundamentals of Software Engineering.
+    So I thought what better way than to learn Fullstack with the challenge
+    of making an application update in real time with advanced error handling,
+    a sleek UI, and data fetching. While also making it somethinbg I could get my
+    family and friends to sign up for!
+
+## Quick Start
 
 ### Setup .env file
 
